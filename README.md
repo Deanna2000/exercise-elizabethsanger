@@ -36,5 +36,5 @@ After you have defined all the objects for representing the data, write a corres
 
 
 ## Lessons Learned:
-*   the property "writable" (true or false) means whether you are able to change the object value
-* default values for properties is "false"
+* The property "writable" (true or false) means whether you are able to change the object value
+* Default values for properties is "false"
